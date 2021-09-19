@@ -1,0 +1,13 @@
+-- Gui to Lua
+-- Version: 3.2
+
+-- Instances:
+
+local ImageLabel = Instance.new("ImageLabel")
+
+--Properties:
+
+ImageLabel.Parent = game.StarterGui.ScreenGui
+ImageLabel.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ImageLabel.Size = UDim2.new(0, 1547, 0, 855)
+ImageLabel.Image = "rbxassetid://7514811699"
